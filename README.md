@@ -29,7 +29,7 @@ The DDPG model implemented here converged to the target value of 30. at episode 
 
 \*(higher might work, but not guaranteed)
 
-## Saved model parameter-sets
+# Saved model parameter-sets
 - al1.state (actor-local)
 - at1.state (actor-target)
 - cl1.state (critic-local)
